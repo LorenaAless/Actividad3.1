@@ -1,0 +1,59 @@
+body{
+    background-color: #f0fff3;
+}
+
+h1{
+    color: #11cbd7;
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: #11cbd7;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#boton{/*boton para invocar script*/
+    cursor: pointer;
+    background-color: #c6f1e7;
+    color: #fa4659;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 580px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+}
+
+#calificarExamen{/*boton calificar examen*/
+    cursor: pointer;
+    background-color: #c6f1e7;
+    color: #fa4659;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 180px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+#calificacion{/*label que da la calificacion*/
+    margin-top: 40px;
+    color: #11cbd7;
+    font-size: 27px;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
